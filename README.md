@@ -12,7 +12,7 @@ This repository hosts my professional GitHub portfolio for IS 3060 at the Univer
 
 ## Website
 
-[https://bs-martel.github.io](https://bs-martel.github.io)
+[https://bs-martel.github.io]([https://bs-martel.github.io](https://bs-martel.github.io/))
 
 ## Featured Projects
 
